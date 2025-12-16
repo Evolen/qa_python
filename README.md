@@ -1,1 +1,11 @@
 # qa_python
+
+1.def test_set_book_genre_from_book_genre
+2.def test_set_book_genre_not_in_genre
+3.def test_get_book_genre_book_in_books_genre
+4.def test_get_books_with_specific_genre
+5.def test_get_books_genre
+6.def test_get_books_for_children
+7.def test_add_book_in_favorites
+8.def test_delete_book_from_favorites
+9.def test_get_list_of_favorites_books
